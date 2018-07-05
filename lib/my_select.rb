@@ -12,6 +12,7 @@ def my_select(collection)
   
   i += 1
  
- 
  end
+ 
+ result
 end
